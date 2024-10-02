@@ -2,15 +2,15 @@
 <h3 align="center" style="color: #B2FF59;">A Passionate Frontend Developer from Nepal</h3>
 
 <!-- GIF Animation -->
-<img align="right" width="400" src="https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif" alt="Coding GIF"/>
+<img align="right" width="300" src="https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif" alt="Coding GIF"/>
 
 <!-- About Me Section -->
 - 🌱 I’m currently learning **Web Development**
-
+  
+- 💬 Feel free to ask me anything about **Web Development, Reactjs, Typescript, Linux**
+  
 - 👨‍💻 Check out my projects at [www.sauravmoktan.com.np](https://sauravmoktan.com.np/)
-
-- 💬 Feel free to ask me anything about **Web Development**
-
+  
 - 📫 Reach me at **tamangsaurav810@gmail.com**
 
 <br>
