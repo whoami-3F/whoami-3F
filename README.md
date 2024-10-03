@@ -5,12 +5,10 @@
 <img align="right" width="300" src="https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif" alt="Coding GIF"/>
 
 <!-- About Me Section -->
+
 - 🌱 I’m currently learning **Web Development**
-  
 - 💬 Feel free to ask me anything about **Web Development, Reactjs, Typescript, Linux**
-  
 - 👨‍💻 Check out my projects at [www.sauravmoktan.com.np](https://sauravmoktan.com.np/)
-  
 - 📫 Reach me at **tamangsaurav810@gmail.com**
 
 <br>
@@ -27,17 +25,34 @@
 </p>
 
 <!-- Languages and Tools Section -->
-<h3 align="left" style="color: #B2FF59;">Languages and Tools:</h3>
-<p align="left">
-  <!-- Add tools as per your code -->
+
+<h3 align="left" style="color: #B2FF59;">Connect with me:</h3>
+<p align="center">
+  <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+  <img align="left" alt="Typescript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
+    <img align="left" alt="javascript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+  <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+  <img align="left" alt="Tailwindcss" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" style="padding-right:10px;" />
+  <img align="left" alt="Nodejs" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
+     <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
+  <img align="left" alt="appwrite" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appwrite/appwrite-original.svg" style="padding-right:10px;" />
+     <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+        <img align="left" alt="Github" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />
+           <img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" />
+ 
 </p>
+
+<br/>
+<br/>
+
+---
 
 <!-- GitHub Stats Section -->
-<h3 align="left" style="color: #B2FF59;">GitHub Stats:</h3>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=whoami-3f&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=whoami-3f&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=whoami-3f&theme=dark" alt="GitHub Streak Stats" /></p>
+### My Github Stats: <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> 
+<div align="center">
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=whoami-3f&show_icons=true&locale=en&theme=dark&hide=issues&count_private=true" alt="GitHub Status" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=whoami-3f&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=whoami-3f&theme=dark" alt="GitHub Streak" />
+</div>
